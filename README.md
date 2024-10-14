@@ -1,3 +1,4 @@
+如若你喜欢本仓库且不希望与本仓库失联，请star并fork本仓库。
 ## [推荐：亏本机场(目前用到的性价比最好的机场)](https://xn--7kq24s4ynvb.site/#/register?code=16g5gLF6)  往下看还有其他机场，可以对比一下
 
 ![https://xn--7kq24s4ynvb.site/#/register?code=16g5gLF6](https://github.com/vfdeclnc/cheap-vpn-recommendation/assets/138665345/a7a37ff8-a566-4d27-b93a-b8db466cb0b7)  
