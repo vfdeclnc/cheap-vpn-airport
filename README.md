@@ -5,8 +5,38 @@
 ![https://xn--7kq24s4ynvb.site/#/register?code=16g5gLF6](https://github.com/vfdeclnc/cheap-vpn-recommendation/assets/138665345/e33b74ac-c060-485e-9eab-9f3475713040)  
 ![https://xn--7kq24s4ynvb.site/#/register?code=16g5gLF6](https://github.com/vfdeclnc/cheap-vpn-recommendation/assets/138665345/b798769c-2bc6-4754-9af1-dc0b546e386a)  
 
-# 其他低价机场推荐
+---
+# 其他低价机场推荐，不明白的请一直往下看完。
 
+## 具体购买什么请各位考虑清楚再购买：请按照机场网站教程和推荐的软件使用，不要随意使用某些商店的版本。部分机场网站可能被墙，所以一定不要等到用完才续费。若有其他问题，可在各机场的飞机群提问。
+
+|创建日期|官网<br>(点击跳转)|限时<br>套餐|不限时<br>套餐|其他|
+|-|-|-|-|-|
+|2023.03.09|[**亏本机场**](https://xn--7kq24s4ynvb.site/#/register?code=Lhpm2QMs)|**1.99 ￥ / 月 / 500 GB**|**9.9 ￥ / 不限时 / 1234 GB**|目前在用不限时套餐|
+|2022.11.06|[**赔钱机场**](https://xn--mes358aby2apfg.com/#/register?code=B52MtDq3)|**1.5 ￥ / 月 / 100 GB**|**18.9 ￥ / 不限时 / 1000 GB；<br>688 ￥ / 永久 / 99999 GB**|688 永久可滥用|
+|2023.04.05|[**高速机场**](https://xn--mes358al14ay7i.site/#/register?code=A42GZudh)|**1.9 ￥ / 月 / 500 GB**|**14.9 ￥ / 不限时 / 1000 GB**||
+|2023.05.01|[**农夫山泉**](https://www.nfsq.us/#/register?code=GwZy7XwK)|**8 ￥ / 月 / 200 GB**|**15 ￥ / 不限时 / 200 GB**||
+|2022.05.10|[**Spcloud**](https://invite.spcloud.vip/#/register?code=svOkMVCH)|**10 ￥ / 月 / 100 GB**|**25 ￥ / 不限时 / 100 GB**||
+|2023.02.03|[**自由猫**](https://us.freecat.cloud/register?code=yA5d4GFo)|**9 ￥ / 月 / 100 GB**|**15 ￥ / 不限时 / 100 GB**||
+|2023.02.15|[**慈善机场**](https://xn--30rs3bu7r87f.com/#/register?code=NcxpTHun)|**8.99 ￥ / 年 / 2400 GB**|无|每月重置200G，<br>付1￥重置|
+|2019.03.17|[**SAC**](https://hk.sacjs.host/index.php#/register?code=5I5wcVPd)|**15.99 ￥ / 月 / 300 GB**|**169.99 ￥ / 不限时 / 1000 GB**||
+|2023.03.30|[**COO**](https://web.coo.wiki/#/register?code=Ltxnl1NL)|**6 ￥ / 月 / 100 GB<br>12.88 ￥ / 月 / 300 GB**|**44.66 ￥ / 不限时 / 500 GB<br>88.88 ￥ / 不限时 / 1000 GB**||
+|2020.11.13|[**魔戒**](https://www.mojie.me/#/register?code=qt6C1VtA)|无|**1 ￥ / 永久 / 2 GB<br>14.9 ￥ / 永久 / 130 GB；<br>688 ￥ / 永久 / 10000 GB**|688 永久可滥用|
+|2022.06.21|[**Frost**](https://www.twilightfrost.top/#/register?code=Wl6cjbkM)|**6 ￥ / 月 / 60 GB**|无|试用1小时|
+|2023.02.09|[**极速云**](https://www.twilightfrost.top/#/register?code=Wl6cjbkM)|**9.9 ￥ / 月 / 800 GB**|**50 ￥ / 不限时 / 1000 GB**||
+|2023.06.25|[**To2**](https://ai.totwo.top/#/login?code=vrgJJerB)|**8 ￥ / 月 / 120 GB**|**169 ￥ / 不限时 / 888 GB**||
+|2023.07.01|[**蜂窝云**](https://api.fwcloud.life/auth/register?code=yBPSeL)|**10 ￥ / 月 / 300 GB**|**22 ￥ / 不限时 / 200 GB**|试用1天3GB|
+|2023.09.12|[**M78星云**](https://m78star.cloud/#/register?code=qrVjgpfL)|**7.80 ￥ / 月 / 80 GB**|**85.00 / 不限时 / 400 GB**||
+
+- 🚁 [2022.04.13] --- ( 9.88 ￥ / 月 / 100 GB) --- 美汁源：[https://meizhiyuan.cc/index.php#/register](https://meizhiyuan.cc/index.php#/register?code=T6ESpLgA)
+- 🚁 [2022.04.16] --- (12.50 ￥ / 月 / 110 GB) --- 泡泡狗：[https://www.paopao.dog/#/register](https://www.paopao.dog/#/register?code=KEXovhwa)
+- 🚁 [2022.10.24] --- ( 8.80 ￥ / 月 / 88 GB；36.8 ￥ / 不限时 / 250 GB) --- 雨燕云：[https://yuyan.online/#/register](https://yuyan.online/#/register?code=GugQbb77)
+- 🚁 [2022.11.11] --- ( 9.90 ￥ / 月 / 200 GB) --- 冲浪猫：[https://www.clcat.net/#/register](https://start.clmgo.me/#/register?code=v6LBmuxp)
+- 🚁 [2022.12.07] --- (2 ￥ / 月 / 100 GB；11.88 ￥ / 不限时 / 100 GB) --- 一分机场：[https://xn--4gqx1hgtfdmt.com/#/register](https://xn--4gqx1hgtfdmt.com/#/register?code=02AiAb3q)
+- 🚁 [2023.02.08] --- ( 25.90 ￥ / 月 / 130 GB) --- Max 加速〖新用户免费试用 1 天〗：[https://global.maxbyte.net](https://maxjiasu.com/ncyuEBj9)
+- 🚁 [2023.03.21] --- ( 7 ￥ / 月 / 50 GB；40 ￥ / 不限时 / 88 GB) --- 稳连云：[https://xn--9kqq77hqun.com/#/register](https://xn--9kqq77hqun.com/#/register?code=xgl31aOi)
+
+---
 📢 **重要通知**：此部分仅用于对机场的重要变动及突发情况作出必要的说明。
 
  - 🗓️ 2023.11.02 🗓️ `Clash for Windows` 已停止更新，原因未知，但不影响使用。若实在有顾虑，可更换其他代理软件。注意，`Clash for Windows` 与 `Clash Core` 是两个完全不同的东西，也就是说，它停止更新不影响 `Clash` 的任何分支。不过，如果后者停止更新，将会使得前者的更新变得毫无意义。可以将前者想象为人的衣物，而后者为人的躯体。衣物对于躯体的活动毫无影响，但若躯体停止活动，那么更换衣物也就变得毫无意义。🗓️ 2023.11.03 🗓️ `Clash Premium Core`，`Clash.Meta Core`，`Clash for Android`，`Clash Meta for Android`，`Clash Verge`，`Tuic`，`Helloworld 路由器插件`，`Gui.for.Clash`，`homeproxy`，`Fclash`，`ClashX` 也纷纷停止更新或删库，部分进行了存档。想要备份各种 `Clash` 的人可自行寻找资源或是[点击此处前往下载](https://mega.nz/folder/qFwjDDAA#l6rBIEAYuCl0fhMOsP79Vg)（注意：链接中的资源非本人整理，不一定全面也不一定可用）。另外，**忠心劝诫各位不要在墙内的任何地方谈论任何与翻墙相关的事情**，无论是为了自身安全还是为了代理工具的安全。近期本来只是 `Clash for Windows` 删库，结果各种无知群众莫名把相关话题带上微博热搜，此后一堆 Core，GUI 删库，造成这一局面，可以说是那些无知人士带节奏所引起的一系列连锁反应。至于目前这些代理软件还能不能用呢，答案是能。只有到了这些代理工具或是内核被发现有严重漏洞那一天，或是当前主流协议都被新协议所替代时，才不可以使用。然而，对此丝毫可以不用感到惊慌，代理工具以及内核千千万万，除了 `Clash` 还有 `V2ray` 等，并且旧事物的褪去总会有新事物来代替，互联网的更新是日新月异的，这点我相信各位很清楚。总之，请勿在墙内大谈特谈相关事件，此通知将长期保留。
@@ -51,35 +81,6 @@
  - 类型：描述了机场的线路类型是直连还是中转。虽然这其中有部分中转机场提供了少量专线节点，但我没有在节点类型中多作说明，这是因为低价机场的专线节点的倍率往往都在 10 倍以上，我不推荐使用。若你真有使用专线的需求，请直接去使用一线机场，没必要看这类价格的机场。换句话说，**在选购以下机场时**，**没必要把专线纳入考虑范围**，因为专线的倍率太高了。**确认自己需要的是直连（流量充足，速度适中，稳定性一般）还是中转（流量适中，速度较快，稳定性较好）即可**。注意，**新疆地区具有特殊性**，**该地区大概率无法使用中转机场**，**只建议购买直连机场**。
  - 最低倍率：**指的是机场中最低倍率节点的速率**，注意，**不是所有节点的倍率**，**更不是节点的速度**。大部分机场的大部分节点速率都为 1 倍，**低于 1 倍率的节点数基本都在 5 个以内**。注意，**倍率不是指连接速度或是下载速度的快慢**，**而是指消耗机场流量速度的快慢**。**如倍率为 0.1**，**那么当你下载完一个 100 MB 的视频时**，**所消耗的机场流量为 100 * 0.1 = 10 MB**。不过，虽然这个速率与节点所提供的下载速度没有直接关系，但是通常来说，高倍率节点的速度是会比较快的，因为这些高倍率节点多数是一些优质的专线节点，成本较高，因此倍率也就高。并且，高倍率节点通常使用的人数较少，那么速度自然而然也会比较快。而倍率低的则往往成本偏低，速率可能没法跑到非常高，不过只要节点没有掉线，基本也是能够满足大部分需求。**高倍率的节点往往是高质量，高成本的节点**，**低倍率节点则是低成本节点。但是这不表示高倍率节点 100% 比低倍率节点好用**。在使用过程中，优先考虑低倍率节点，能省则省，除非你的体验不佳或是你的流量足够使用，又或是你有其他需求等情况再考虑用高倍率节点。
  - 再次强调：**购买两三个机场足矣**，**不要贪多**。
-
-## 具体购买什么请各位考虑清楚再购买：请按照机场网站教程和推荐的软件使用，不要随意使用某些商店的版本。部分机场网站可能被墙，所以一定不要等到用完才续费。若有其他问题，可在各机场的飞机群提问。
-
-|创建日期|官网<br>(点击跳转)|限时<br>套餐|不限时<br>套餐|其他|
-|-|-|-|-|-|
-|2023.03.09|[**亏本机场**](https://xn--7kq24s4ynvb.site/#/register?code=Lhpm2QMs)|**1.99 ￥ / 月 / 500 GB**|**9.9 ￥ / 不限时 / 1234 GB**|目前在用不限时套餐|
-|2022.11.06|[**赔钱机场**](https://xn--mes358aby2apfg.com/#/register?code=B52MtDq3)|**1.5 ￥ / 月 / 100 GB**|**18.9 ￥ / 不限时 / 1000 GB；<br>688 ￥ / 永久 / 99999 GB**|688 永久可滥用|
-|2023.04.05|[**高速机场**](https://xn--mes358al14ay7i.site/#/register?code=A42GZudh)|**1.9 ￥ / 月 / 500 GB**|**14.9 ￥ / 不限时 / 1000 GB**||
-|2023.05.01|[**农夫山泉**](https://www.nfsq.us/#/register?code=GwZy7XwK)|**8 ￥ / 月 / 200 GB**|**15 ￥ / 不限时 / 200 GB**||
-|2022.05.10|[**Spcloud**](https://invite.spcloud.vip/#/register?code=svOkMVCH)|**10 ￥ / 月 / 100 GB**|**25 ￥ / 不限时 / 100 GB**||
-|2023.02.03|[**自由猫**](https://us.freecat.cloud/register?code=yA5d4GFo)|**9 ￥ / 月 / 100 GB**|**15 ￥ / 不限时 / 100 GB**||
-|2023.02.15|[**慈善机场**](https://xn--30rs3bu7r87f.com/#/register?code=NcxpTHun)|**8.99 ￥ / 年 / 2400 GB**|无|每月重置200G，<br>付1￥重置|
-|2019.03.17|[**SAC**](https://hk.sacjs.host/index.php#/register?code=5I5wcVPd)|**15.99 ￥ / 月 / 300 GB**|**169.99 ￥ / 不限时 / 1000 GB**||
-|2023.03.30|[**COO**](https://web.coo.wiki/#/register?code=Ltxnl1NL)|**6 ￥ / 月 / 100 GB<br>12.88 ￥ / 月 / 300 GB**|**44.66 ￥ / 不限时 / 500 GB<br>88.88 ￥ / 不限时 / 1000 GB**||
-|2020.11.13|[**魔戒**](https://www.mojie.me/#/register?code=qt6C1VtA)|无|**1 ￥ / 永久 / 2 GB<br>14.9 ￥ / 永久 / 130 GB；<br>688 ￥ / 永久 / 10000 GB**|688 永久可滥用|
-|2022.06.21|[**Frost**](https://www.twilightfrost.top/#/register?code=Wl6cjbkM)|**6 ￥ / 月 / 60 GB**|无|试用1小时|
-|2023.02.09|[**极速云**](https://www.twilightfrost.top/#/register?code=Wl6cjbkM)|**9.9 ￥ / 月 / 800 GB**|**50 ￥ / 不限时 / 1000 GB**||
-|2023.06.25|[**To2**](https://ai.totwo.top/#/login?code=vrgJJerB)|**8 ￥ / 月 / 120 GB**|**169 ￥ / 不限时 / 888 GB**||
-|2023.07.01|[**蜂窝云**](https://api.fwcloud.life/auth/register?code=yBPSeL)|**10 ￥ / 月 / 300 GB**|**22 ￥ / 不限时 / 200 GB**|试用1天3GB|
-|2023.09.12|[**M78星云**](https://m78star.cloud/#/register?code=qrVjgpfL)|**7.80 ￥ / 月 / 80 GB**|**85.00 / 不限时 / 400 GB**||
-
-- 🚁 [2022.04.13] --- ( 9.88 ￥ / 月 / 100 GB) --- 美汁源：[https://meizhiyuan.cc/index.php#/register](https://meizhiyuan.cc/index.php#/register?code=T6ESpLgA)
-- 🚁 [2022.04.16] --- (12.50 ￥ / 月 / 110 GB) --- 泡泡狗：[https://www.paopao.dog/#/register](https://www.paopao.dog/#/register?code=KEXovhwa)
-- 🚁 [2022.10.24] --- ( 8.80 ￥ / 月 / 88 GB；36.8 ￥ / 不限时 / 250 GB) --- 雨燕云：[https://yuyan.online/#/register](https://yuyan.online/#/register?code=GugQbb77)
-- 🚁 [2022.11.11] --- ( 9.90 ￥ / 月 / 200 GB) --- 冲浪猫：[https://www.clcat.net/#/register](https://start.clmgo.me/#/register?code=v6LBmuxp)
-- 🚁 [2022.12.07] --- (2 ￥ / 月 / 100 GB；11.88 ￥ / 不限时 / 100 GB) --- 一分机场：[https://xn--4gqx1hgtfdmt.com/#/register](https://xn--4gqx1hgtfdmt.com/#/register?code=02AiAb3q)
-- 🚁 [2023.02.08] --- ( 25.90 ￥ / 月 / 130 GB) --- Max 加速〖新用户免费试用 1 天〗：[https://global.maxbyte.net](https://maxjiasu.com/ncyuEBj9)
-- 🚁 [2023.03.21] --- ( 7 ￥ / 月 / 50 GB；40 ￥ / 不限时 / 88 GB) --- 稳连云：[https://xn--9kqq77hqun.com/#/register](https://xn--9kqq77hqun.com/#/register?code=xgl31aOi)
-
 
 👀 以上所列举的套餐都属于机场中最低价格或者是我觉得比较实惠的，**点击上方链接可以进入各家官网（部分机场官网可能处于被墙的状态，若是进不去可将代理工具切换到全局代理模式）查看更多套餐**。套餐的价格偶尔会发生变动，我如果知道了就会进行相应的更新，不一定会及时，但每个月至少会更新一次，具体以官网为主。“试用”是我自己注册账号时的情况，这部分完全不具有时效性，因为我不可能定期为每个机场注册新账号，请见谅。不过，如果机场跑路，我是肯定会第一时间发通知进行提醒的。另外，初次使用机场的小伙伴可能会发现各家机场官网的界面都很相似，请不要误以为全是同一个老板开的，这是很正常的，因为机场的页面基本都是用了相同的开源项目，比如 `v2board`。因此，机场界面的美观与否，显然与机场质量的好坏也是没有任何关系的。
 
