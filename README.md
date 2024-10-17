@@ -18,6 +18,7 @@
 |2023.05.01|[**农夫山泉**](https://www.nfsq.us/#/register?code=GwZy7XwK)|**8 ￥ / 月 / 200 GB**|**15 ￥ / 不限时 / 200 GB**||
 |2022.05.10|[**Spcloud**](https://invite.spcloud.vip/#/register?code=svOkMVCH)|**10 ￥ / 月 / 100 GB**|**25 ￥ / 不限时 / 100 GB**||
 |2023.02.03|[**自由猫**](https://us.freecat.cloud/register?code=yA5d4GFo)|**9 ￥ / 月 / 100 GB**|**15 ￥ / 不限时 / 100 GB**||
+|-|[**EFC**](https://inv.easyfastcloud.com/#/register?code=Vv5GZWzM)|**8 ￥ / 月 / 100 GB**|无||
 |2023.02.15|[**慈善机场**](https://xn--30rs3bu7r87f.com/#/register?code=NcxpTHun)|**8.99 ￥ / 年 / 2400 GB**|无|每月重置200G，<br>付1￥重置|
 |2019.03.17|[**SAC**](https://hk.sacjs.host/index.php#/register?code=5I5wcVPd)|**15.99 ￥ / 月 / 300 GB**|**169.99 ￥ / 不限时 / 1000 GB**||
 |2023.03.30|[**COO**](https://web.coo.wiki/#/register?code=Ltxnl1NL)|**6 ￥ / 月 / 100 GB<br>12.88 ￥ / 月 / 300 GB**|**44.66 ￥ / 不限时 / 500 GB<br>88.88 ￥ / 不限时 / 1000 GB**||
