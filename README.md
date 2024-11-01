@@ -28,10 +28,10 @@
 |2023.06.25|[**To2**](https://ai.totwo.top/#/login?code=vrgJJerB)|**8 ￥ / 月 / 120 GB**|**169 ￥ / 不限时 / 888 GB**||
 |2023.07.01|[**蜂窝云**](https://api.fwcloud.life/auth/register?code=yBPSeL)|**10 ￥ / 月 / 300 GB**|**22 ￥ / 不限时 / 200 GB**|试用1天3GB|
 |2023.09.12|[**M78星云**](https://m78star.cloud/#/register?code=qrVjgpfL)|**7.80 ￥ / 月 / 80 GB**|**85.00 / 不限时 / 400 GB**||
+|2022.12.07|[**一分机场**](https://xn--4gqx1hgtfdmt.com/#/register?code=02AiAb3q)|**2 ￥ / 月 / 100 GB**|**11.88 ￥ / 不限时 / 100 GB**||
 
 - 🚁 [2022.04.13] --- ( 9.88 ￥ / 月 / 100 GB) --- 美汁源：[https://meizhiyuan.cc/index.php#/register](https://meizhiyuan.cc/index.php#/register?code=T6ESpLgA)
 - 🚁 [2022.10.24] --- ( 8.80 ￥ / 月 / 88 GB；36.8 ￥ / 不限时 / 250 GB) --- 雨燕云：[https://yuyan.online/#/register](https://yuyan.online/#/register?code=GugQbb77)
-- 🚁 [2022.12.07] --- (2 ￥ / 月 / 100 GB；11.88 ￥ / 不限时 / 100 GB) --- 一分机场：[https://xn--4gqx1hgtfdmt.com/#/register](https://xn--4gqx1hgtfdmt.com/#/register?code=02AiAb3q)
 - 🚁 [2023.02.08] --- ( 25.90 ￥ / 月 / 130 GB) --- Max 加速〖新用户免费试用 1 天〗：[https://global.maxbyte.net](https://maxjiasu.com/ncyuEBj9)
 - 🚁 [2023.03.21] --- ( 7 ￥ / 月 / 50 GB；40 ￥ / 不限时 / 88 GB) --- 稳连云：[https://xn--9kqq77hqun.com/#/register](https://xn--9kqq77hqun.com/#/register?code=xgl31aOi)
 
