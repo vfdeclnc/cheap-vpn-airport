@@ -30,9 +30,7 @@
 |2023.09.12|[**M78星云**](https://m78star.cloud/#/register?code=qrVjgpfL)|**7.80 ￥ / 月 / 80 GB**|**85.00 / 不限时 / 400 GB**||
 
 - 🚁 [2022.04.13] --- ( 9.88 ￥ / 月 / 100 GB) --- 美汁源：[https://meizhiyuan.cc/index.php#/register](https://meizhiyuan.cc/index.php#/register?code=T6ESpLgA)
-- 🚁 [2022.04.16] --- (12.50 ￥ / 月 / 110 GB) --- 泡泡狗：[https://www.paopao.dog/#/register](https://www.paopao.dog/#/register?code=KEXovhwa)
 - 🚁 [2022.10.24] --- ( 8.80 ￥ / 月 / 88 GB；36.8 ￥ / 不限时 / 250 GB) --- 雨燕云：[https://yuyan.online/#/register](https://yuyan.online/#/register?code=GugQbb77)
-- 🚁 [2022.11.11] --- ( 9.90 ￥ / 月 / 200 GB) --- 冲浪猫：[https://www.clcat.net/#/register](https://start.clmgo.me/#/register?code=v6LBmuxp)
 - 🚁 [2022.12.07] --- (2 ￥ / 月 / 100 GB；11.88 ￥ / 不限时 / 100 GB) --- 一分机场：[https://xn--4gqx1hgtfdmt.com/#/register](https://xn--4gqx1hgtfdmt.com/#/register?code=02AiAb3q)
 - 🚁 [2023.02.08] --- ( 25.90 ￥ / 月 / 130 GB) --- Max 加速〖新用户免费试用 1 天〗：[https://global.maxbyte.net](https://maxjiasu.com/ncyuEBj9)
 - 🚁 [2023.03.21] --- ( 7 ￥ / 月 / 50 GB；40 ￥ / 不限时 / 88 GB) --- 稳连云：[https://xn--9kqq77hqun.com/#/register](https://xn--9kqq77hqun.com/#/register?code=xgl31aOi)
