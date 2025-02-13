@@ -15,11 +15,11 @@
 
 |创建日期|官网<br>(点击跳转)|限时<br>套餐|不限时<br>套餐|其他|
 |-|-|-|-|-|
-|2023.03.09|[**亏本机场**](https://xn--7kq24s4ynvb.site/#/register?code=Lhpm2QMs)|**1.99 ￥ / 月 / 500 GB**|**9.9 ￥ / 不限时 / 1234 GB**|已购买不限时9.9，主用，主打性价比|
-|2022.11.06|[**赔钱机场**](https://xn--mes358aby2apfg.com/#/register?code=HS7E03kT)|**1.5 ￥ / 月 / 100 GB**|**18.9 ￥ / 不限时 / 1000 GB；<br>688 ￥ / 永久可滥用 / 99999 GB**|已购买不限时18.9，节点多|
-|2023.05.01|[**农夫山泉**](https://www.nfsq.us/#/register?code=GwZy7XwK)|**8 ￥ / 月 / 200 GB**|**15 ￥ / 不限时 / 200 GB**|已购买不限时15，节点不多,大部分是亚洲节点|
-|2023.04.05|[**高速机场**](https://xn--mes358al14ay7i.site/#/register?code=A42GZudh)|**1.9 ￥ / 月 / 500 GB**|**14.9 ￥ / 不限时 / 1000 GB**|已购买不限时14.9，节点不多|
-|2023.07.01|[**蜂窝云**](https://api.fwcloud.life/auth/register?code=yBPSeL)|**10 ￥ / 月 / 300 GB**|**22 ￥ / 不限时 / 200 GB**|已购买不限时VIP6,<br>套餐分类、VIP2-4，VIP5-6，SVIP，<br>节点分类：国外、其他、telegram、youtube、netflix、国外媒体、openAI、Epic、苹果服务等|
+|2023.03.09|[**亏本机场**](https://xn--7kq24s4ynvb.site/#/register?code=Lhpm2QMs)|**1.99 ￥ / 月 / 500 GB**|**9.9 ￥ / 不限时 / 1234 GB**|已购买不限时9.9￥，主用，主打性价比|
+|2022.11.06|[**赔钱机场**](https://xn--mes358aby2apfg.com/#/register?code=HS7E03kT)|**1.5 ￥ / 月 / 100 GB**|**18.9 ￥ / 不限时 / 1000 GB；<br>688 ￥ / 永久可滥用 / 99999 GB**|已购买不限时18.9￥，节点多|
+|2023.05.01|[**农夫山泉**](https://www.nfsq.us/#/register?code=GwZy7XwK)|**8 ￥ / 月 / 200 GB**|**15 ￥ / 不限时 / 200 GB**|已购买不限时15￥，节点不多,大部分是亚洲节点|
+|2023.04.05|[**高速机场**](https://xn--mes358al14ay7i.site/#/register?code=A42GZudh)|**1.9 ￥ / 月 / 500 GB**|**14.9 ￥ / 不限时 / 1000 GB**|已购买不限时14.9￥，节点不多|
+|2023.07.01|[**蜂窝云**](https://api.fwcloud.life/auth/register?code=yBPSeL)|**10 ￥ / 月 / 300 GB**|**22 ￥ / 不限时 / 200 GB**|已购买不限时22￥,<br>套餐分类、VIP2-4，VIP5-6，SVIP，<br>节点分类：国外、其他、telegram、youtube、netflix、国外媒体、openAI、Epic、苹果服务等|
 |2020.11.13|[**魔戒**](https://www.mojie.me/#/register?code=qt6C1VtA)|无|**14.9 ￥ / 永久 / 130 GB；<br>688 ￥ / 永久可滥用 / 10000 GB**||
 |2023.02.03|[**自由猫**](https://us.freecat.cloud/register?code=yA5d4GFo)|**9 ￥ / 月 / 100 GB**|**15 ￥ / 不限时 / 100 GB**||
 |2023.03.30|[**COO**](https://web.coo.wiki/#/register?code=Ltxnl1NL)|**6 ￥ / 月 / 100 GB<br>12.88 ￥ / 月 / 300 GB**|**44.66 ￥ / 不限时 / 500 GB<br>88.88 ￥ / 不限时 / 1000 GB**||
