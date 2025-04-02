@@ -1,6 +1,5 @@
 如若你喜欢本仓库且不希望与本仓库失联，请点一下右上角的`star`⭐ 并`fork`本仓库。
 ## [推荐：亏本机场(主打性价比)](https://xn--7kq24s4ynvb.site/#/register?code=16g5gLF6)  
-## [推荐：农夫山泉(专线延迟低)](https://www.nfsq.us/#/register?code=GwZy7XwK)  
 
 **往下看还有其他机场，可以对比一下**
  
