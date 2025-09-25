@@ -1,0 +1,551 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>优质低价机场推荐</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <style>
+    :root {
+      --bg-primary: #0d1117;
+      --bg-secondary: #161b22;
+      --bg-tertiary: #1c2128;
+      --text-primary: #c9d1d9;
+      --text-secondary: #8b949e;
+      --accent-color: #58a6ff;
+      --border-color: #43484f;
+      --warning-color: #da3633;
+      --success-color: #238636;
+      --card-bg: #161b22;
+      --header-gradient: linear-gradient(135deg, #1a2332 0%, #0d1117 100%);
+    }
+
+    .light-mode {
+      --bg-primary: #ffffff;
+      --bg-secondary: #f6f8fa;
+      --bg-tertiary: #f0f4f8;
+      --text-primary: #24292f;
+      --text-secondary: #57606a;
+      --accent-color: #0969da;
+      --border-color: #d0d7de;
+      --warning-color: #cf222e;
+      --success-color: #1a7f37;
+      --card-bg: #f6f8fa;
+      --header-gradient: linear-gradient(135deg, #f0f4f8 0%, #e1e8f0 100%);
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Segoe UI', 'Microsoft YaHei', sans-serif;
+      transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+    }
+
+    body {
+      background-color: var(--bg-primary);
+      color: var(--text-primary);
+      line-height: 1.6;
+      padding: 0;
+      margin: 0;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+
+    header {
+      background: var(--header-gradient);
+      padding: 30px 0;
+      border-bottom: 1px solid var(--border-color);
+      text-align: center;
+      position: relative;
+    }
+
+    .header-controls {
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      display: flex;
+      gap: 15px;
+      align-items: center;
+    }
+
+    .theme-toggle {
+      position: relative;
+      background: var(--bg-secondary);
+      border: 1px solid var(--border-color);
+      border-radius: 50px;
+      width: 60px;
+      height: 30px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 5px;
+    }
+
+    .theme-toggle i {
+      font-size: 14px;
+      color: var(--text-primary);
+    }
+
+    .theme-toggle .toggle-circle {
+      position: absolute;
+      width: 24px;
+      height: 24px;
+      background: var(--accent-color);
+      border-radius: 50%;
+      left: 3px;
+      transition: transform 0.3s;
+    }
+
+    .light-mode .theme-toggle .toggle-circle {
+      transform: translateX(30px);
+    }
+
+    .github-btn {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      background: var(--bg-secondary);
+      color: var(--text-primary);
+      text-decoration: none;
+      padding: 8px 15px;
+      border-radius: 6px;
+      border: 1px solid var(--border-color);
+      font-weight: 600;
+      transition: all 0.3s;
+    }
+
+    .github-btn:hover {
+      background: var(--bg-tertiary);
+      transform: translateY(-2px);
+    }
+
+    .github-btn i {
+      font-size: 1.2rem;
+    }
+
+    header h1 {
+      font-size: 2.5rem;
+      margin-bottom: 10px;
+      background: linear-gradient(90deg, var(--accent-color), #8a63d2);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    header p {
+      font-size: 1.1rem;
+      max-width: 800px;
+      margin: 0 auto;
+      color: var(--text-secondary);
+    }
+
+    .warning-banner {
+      background: linear-gradient(90deg, var(--warning-color), #f78166);
+      color: white;
+      padding: 15px;
+      border-radius: 8px;
+      margin: 25px 0;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .warning-banner i {
+      font-size: 1.5rem;
+    }
+
+    .section-title {
+      font-size: 1.8rem;
+      margin: 30px 0 20px;
+      padding-bottom: 10px;
+      border-bottom: 2px solid var(--border-color);
+      color: var(--accent-color);
+    }
+
+    .airport-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 20px 0;
+      background: var(--card-bg);
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    }
+
+    .airport-table th {
+      background: var(--accent-color);
+      color: white;
+      padding: 15px;
+      text-align: left;
+    }
+
+    .airport-table td {
+      padding: 15px;
+      border-bottom: 1px solid var(--border-color);
+    }
+
+    .airport-table tr:last-child td {
+      border-bottom: none;
+    }
+
+    .airport-table tr:hover {
+      background: var(--bg-tertiary);
+    }
+
+    .btn {
+      display: inline-block;
+      background: var(--success-color);
+      color: white;
+      padding: 8px 16px;
+      border-radius: 6px;
+      text-decoration: none;
+      font-weight: 600;
+      transition: all 0.3s;
+    }
+
+    .btn:hover {
+      background: #2ea043;
+      transform: translateY(-2px);
+    }
+
+    .protocol-badge {
+      display: inline-block;
+      padding: 4px 8px;
+      border-radius: 4px;
+      font-size: 0.8rem;
+      font-weight: bold;
+      margin: 2px;
+    }
+
+    .vless {
+      background: #8957e5;
+      color: white;
+    }
+
+    .ss {
+      background: #db61a2;
+      color: white;
+    }
+
+    .vmess {
+      background: #3fb950;
+      color: white;
+    }
+
+    .hy2 {
+      background: #d29922;
+      color: white;
+    }
+
+    .notice {
+      background: var(--bg-tertiary);
+      border-left: 4px solid #d29922;
+      padding: 15px;
+      margin: 20px 0;
+      border-radius: 4px;
+    }
+
+    .notice-title {
+      font-weight: bold;
+      margin-bottom: 5px;
+      color: #d29922;
+    }
+
+    .features {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 20px;
+      margin: 30px 0;
+    }
+
+    .feature-card {
+      background: var(--card-bg);
+      padding: 20px;
+      border-radius: 8px;
+      border: 1px solid var(--border-color);
+    }
+
+    .feature-card i {
+      font-size: 2rem;
+      color: var(--accent-color);
+      margin-bottom: 15px;
+    }
+
+    .feature-card h3 {
+      margin-bottom: 10px;
+      color: var(--accent-color);
+    }
+
+    footer {
+      text-align: center;
+      padding: 30px 0;
+      margin-top: 50px;
+      border-top: 1px solid var(--border-color);
+      color: var(--text-secondary);
+      font-size: 0.9rem;
+    }
+
+    .highlight {
+      color: var(--accent-color);
+      font-weight: 600;
+    }
+
+    @media (max-width: 768px) {
+      .airport-table {
+        display: block;
+        overflow-x: auto;
+      }
+
+      header h1 {
+        font-size: 2rem;
+      }
+
+      .header-controls {
+        position: relative;
+        top: auto;
+        right: auto;
+        margin: 10px auto;
+        justify-content: center;
+      }
+    }
+  </style>
+</head>
+
+<body class="dark-mode">
+  <header>
+    <div class="container">
+      <div class="header-controls">
+        <a href="https://github.com/DiningFactory/panda-vpn-pro" class="github-btn" target="_blank">
+          <i class="fab fa-github"></i>
+          GitHub
+        </a>
+        <div class="theme-toggle" id="themeToggle">
+          <i class="fas fa-sun"></i>
+          <i class="fas fa-moon"></i>
+          <div class="toggle-circle"></div>
+        </div>
+      </div>
+      <h1>优质低价机场推荐</h1>
+      <p>长期使用、稳定可靠的科学上网解决方案，告别传统VPN的高价与不稳定</p>
+    </div>
+  </header>
+
+  <div class="container">
+    <div class="warning-banner">
+      <i class="fas fa-exclamation-triangle"></i>
+      <div>
+        <strong>重要提醒：</strong> 翻墙属于敏感行为，请勿使用国内邮箱注册，避免填写真实敏感信息，注意保护个人隐私。
+      </div>
+    </div>
+
+    <h2 class="section-title">推荐机场列表</h2>
+
+    <table class="airport-table">
+      <thead>
+        <tr>
+          <th>创建日期</th>
+          <th>官网</th>
+          <th>协议</th>
+          <th>限时套餐</th>
+          <th>推荐不限时套餐</th>
+          <th>操作</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>2023.05.01</td>
+          <td>农夫山泉</td>
+          <td>
+            <span class="protocol-badge vless">VLESS</span>
+            <span class="protocol-badge ss">SS</span>
+          </td>
+          <td>8 ￥ / 月 / 200 GB</td>
+          <td>15 ￥ / 不限时 / 200 GB</td>
+          <td><a href="#" class="btn">访问官网</a></td>
+        </tr>
+        <tr>
+          <td>2023.07.01</td>
+          <td>蜂窝云</td>
+          <td>
+            <span class="protocol-badge ss">SS</span>
+            <span class="protocol-badge vmess">VMess</span>
+          </td>
+          <td>10 ￥ / 月 / 300 GB</td>
+          <td>22 ￥ / 不限时 / 200 GB</td>
+          <td><a href="#" class="btn">访问官网</a></td>
+        </tr>
+        <tr>
+          <td>2023.03.09</td>
+          <td>亏本机场</td>
+          <td>
+            <span class="protocol-badge hy2">Hysteria2</span>
+            <span class="protocol-badge vless">VLESS</span>
+          </td>
+          <td>1.99 ￥ / 月 / 500 GB</td>
+          <td>9.9 ￥ / 不限时 / 1234 GB</td>
+          <td><a href="#" class="btn">访问官网</a></td>
+        </tr>
+        <tr>
+          <td>2022.12.07</td>
+          <td>一分机场</td>
+          <td>
+            <span class="protocol-badge hy2">Hysteria2</span>
+            <span class="protocol-badge vless">VLESS</span>
+          </td>
+          <td>2 ￥ / 月 / 100 GB</td>
+          <td>19.88 ￥ / 不限时 / 1000 GB</td>
+          <td><a href="#" class="btn">访问官网</a></td>
+        </tr>
+        <tr>
+          <td>2022.11.06</td>
+          <td>赔钱机场</td>
+          <td>
+            <span class="protocol-badge vless">VLESS</span>
+            <span class="protocol-badge hy2">Hysteria2</span>
+          </td>
+          <td>5.99 ￥ / 月 / 1000 GB</td>
+          <td>18.9 ￥ / 不限时 / 1000 GB</td>
+          <td><a href="#" class="btn">访问官网</a></td>
+        </tr>
+        <tr>
+          <td>2023.04.05</td>
+          <td>高速机场</td>
+          <td>
+            <span class="protocol-badge vless">VLESS</span>
+          </td>
+          <td>1.9 ￥ / 月 / 500 GB</td>
+          <td>14.9 ￥ / 不限时 / 1000 GB</td>
+          <td><a href="#" class="btn">访问官网</a></td>
+        </tr>
+      </tbody>
+    </table>
+
+    <div class="notice">
+      <div class="notice-title"><i class="fas fa-info-circle"></i> 使用须知</div>
+      <p>机场不适合用来打游戏！套餐价格和内容可能发生变化，请以官网实际为准。购买前请仔细阅读各机场的使用条款。</p>
+    </div>
+
+    <h2 class="section-title">为什么选择机场而非传统VPN？</h2>
+
+    <div class="features">
+      <div class="feature-card">
+        <i class="fas fa-bolt"></i>
+        <h3>更快的速度</h3>
+        <p>机场专门为绕过GFW优化，相比传统VPN有更快的连接速度和更低的延迟。</p>
+      </div>
+      <div class="feature-card">
+        <i class="fas fa-shield-alt"></i>
+        <h3>更好的稳定性</h3>
+        <p>采用最新协议和技术，对抗GFW检测能力更强，连接更加稳定可靠。</p>
+      </div>
+      <div class="feature-card">
+        <i class="fas fa-wallet"></i>
+        <h3>更低的价格</h3>
+        <p>相比传统VPN，机场提供更具性价比的套餐，满足不同用户的需求。</p>
+      </div>
+    </div>
+
+    <h2 class="section-title">重要通知</h2>
+
+    <div class="notice">
+      <div class="notice-title"><i class="fas fa-bullhorn"></i> 2025.06.28 网络波动通知</div>
+      <p>近期多数机场都有较大的网络波动，电信用户可能感知比较明显。大概率是加强网络审查了。这个事情基本每年都有，力度不一，时间不定。如果近期明显感觉变卡了，勤更新订阅，然后慢慢等就好了。</p>
+    </div>
+
+    <div class="notice">
+      <div class="notice-title"><i class="fas fa-bullhorn"></i> 2023.11.02 Clash for Windows 停止更新</div>
+      <p>Clash for Windows 已停止更新，原因未知，但不影响使用。若实在有顾虑，可更换其他代理软件。注意，不要在墙内的任何地方谈论任何与翻墙相关的事情。</p>
+    </div>
+
+    <h2 class="section-title">代理软件推荐</h2>
+
+    <div class="features">
+      <div class="feature-card">
+        <i class="fab fa-windows"></i>
+        <h3>Windows</h3>
+        <p>Clash Verge, Clash for Windows, V2rayN</p>
+      </div>
+      <div class="feature-card">
+        <i class="fab fa-apple"></i>
+        <h3>macOS</h3>
+        <p>ClashX, Clash Verge, Surge</p>
+      </div>
+      <div class="feature-card">
+        <i class="fab fa-android"></i>
+        <h3>Android</h3>
+        <p>Clash for Android, V2rayNG, NekoBox</p>
+      </div>
+      <div class="feature-card">
+        <i class="fab fa-app-store-ios"></i>
+        <h3>iOS</h3>
+        <p>Shadowrocket, Quantumult X, Stash</p>
+      </div>
+    </div>
+
+    <h2 class="section-title">使用指南</h2>
+
+    <div class="features">
+      <div class="feature-card">
+        <i class="fas fa-download"></i>
+        <h3>获取订阅链接</h3>
+        <p>在机场官网注册并购买套餐后，在用户中心获取订阅链接。</p>
+      </div>
+      <div class="feature-card">
+        <i class="fas fa-cog"></i>
+        <h3>配置代理软件</h3>
+        <p>将订阅链接导入到代理软件中，软件会自动获取节点信息。</p>
+      </div>
+      <div class="feature-card">
+        <i class="fas fa-rocket"></i>
+        <h3>开始使用</h3>
+        <p>选择合适的节点，开启代理，即可开始科学上网。</p>
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    <div class="container">
+      <p>本页面仅为信息分享，不保证机场的长期稳定性，使用任何翻墙工具都存在一定风险。</p>
+      <p>如若喜欢本仓库且不希望失联，请点一下右上角的 <span class="highlight">star</span> 并 <span class="highlight">fork</span> 本仓库。</p>
+      <p>最后更新: 2025年7月</p>
+    </div>
+  </footer>
+
+  <script>
+    // 主题切换功能
+    const themeToggle = document.getElementById('themeToggle');
+    const body = document.body;
+
+    // 检查本地存储的主题偏好
+    const currentTheme = localStorage.getItem('theme') || 'dark-mode';
+    body.className = currentTheme;
+
+    themeToggle.addEventListener('click', () => {
+      if (body.classList.contains('dark-mode')) {
+        body.classList.replace('dark-mode', 'light-mode');
+        localStorage.setItem('theme', 'light-mode');
+      } else {
+        body.classList.replace('light-mode', 'dark-mode');
+        localStorage.setItem('theme', 'dark-mode');
+      }
+    });
+
+    // 添加平滑滚动效果
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+      anchor.addEventListener('click', function (e) {
+        e.preventDefault();
+        document.querySelector(this.getAttribute('href')).scrollIntoView({
+          behavior: 'smooth'
+        });
+      });
+    });
+  </script>
+</body>
+
+</html>
