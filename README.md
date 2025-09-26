@@ -24,10 +24,9 @@
 |2023.04.05|[**高速机场**](https://xn--mes358al14ay7i.site/#/register?code=A42GZudh)| vless |**1.9 ￥ / 月 / 500 GB**|**14.9 ￥ / 不限时 / 1000 GB**|大部分美国节点，<br>需要美国节点可选|
 
 ---
-**友情推荐**
-  [免费影视浏览器扩展](https://chromewebstore.google.com/detail/kk-player/pegiockicjmdnkjbnppeeakeogdkegac?hl=zh-CN&utm_source=https://github.com/vfdeclnc/panda-vpn-pro)
-  
+**友情推荐：[免费影视浏览器扩展](https://chromewebstore.google.com/detail/kk-player/pegiockicjmdnkjbnppeeakeogdkegac?hl=zh-CN&utm_source=https://github.com/vfdeclnc/panda-vpn-pro)**
 ---
+
 📢 **重要通知**：此部分仅用于对机场的重要变动及突发情况作出必要的说明。
 
  - 🗓️ 2025.06.28 🗓️ **近期多数机场都有较大的网络波动**，电信用户可能感知比较明显。**大概率是加强网络审查了**（可自行搜索关键词：“2025”，“净网”）。这个事情基本每年都有，力度不一，时间不定，持续时间也不等。如果近期明显感觉变卡了，勤更新订阅，然后慢慢等就好了。这次受影响的主要是中转机场，原因是国内入口各种被通报。接下来可能需要做好打“持久战”的准备了。若真如此，对机场主的财力和维护速度会是不小的考验。因为有些机场可能会扛不住压力而跑路。
