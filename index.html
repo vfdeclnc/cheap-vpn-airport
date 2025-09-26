@@ -27,33 +27,6 @@
   <!-- 6. 规范链接 -->
   <link rel="canonical" href="https://vpn.zzmy.dpdns.org/">
 
-  <!-- 5. 最重要的：结构化数据 (声明这是一个Web应用) -->
-  <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "SoftwareApplication",
-        "name": "优质低价性价比机场推荐 - 最新机场推荐",
-        "url": "https://vpn.zzmy.dpdns.org/",
-        "description": "最新机场推荐 | 熊猫VPN（PandaVPNPro）已确定跑路！cheapvpn，快连VPN ，小牛加速器（小牛VPN）体验不佳且价格贵。低价机场，便宜机场，平价机场，廉价机场，翻墙机场，付费机场，收费机场，高速机场，稳定机场，冷门机场，性价比机场，优质机场推荐。翻墙，科学上网，梯子。非永久免费梯子，非永久免费VPN，非免费机场！谷歌，油管。适用Clash，V2RAY，小火箭等代理软件。",
-        "keywords": "shadowsocks, vpn, trojan, clash, surge, v2ray, gfw, stash, loon, quantumult, surfboard, openclash, matsuri, passwall, sing-box, nekoray, hiddify, mihomo, nekobox, karing",
-        "applicationCategory": "WebApplication",
-        "operatingSystem": "Any", // 支持所有操作系统（因为基于浏览器）
-        "permissions": "browser", // 需要的权限
-        "featureList": [
-            "VPN",
-            "机场",
-            "优质低价性价比",
-            "机场推荐",
-            "最新机场推荐",
-            "1.99元500G/月",
-            "9.99元1000G/不限时"
-        ],
-        "author": {
-            "@type": "Person",
-            "name": "机场推荐"
-        }
-    }
-  </script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   <style>
     :root {
@@ -380,7 +353,9 @@
     }
 
     @media (max-width: 768px) {
-      .create-time, .protocol{
+
+      .create-time,
+      .protocol {
         display: none;
       }
 
@@ -402,6 +377,67 @@
       }
     }
   </style>
+  <!-- 5. 最重要的：结构化数据 (声明这是一个Web应用) -->
+  <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        "name": "优质低价性价比机场推荐 - 最新机场推荐",
+        "url": "https://vpn.zzmy.dpdns.org/",
+        "description": "最新机场推荐 | 熊猫VPN（PandaVPNPro）已确定跑路！cheapvpn，快连VPN ，小牛加速器（小牛VPN）体验不佳且价格贵。低价机场，便宜机场，平价机场，廉价机场，翻墙机场，付费机场，收费机场，高速机场，稳定机场，冷门机场，性价比机场，优质机场推荐。翻墙，科学上网，梯子。非永久免费梯子，非永久免费VPN，非免费机场！谷歌，油管。适用Clash，V2RAY，小火箭等代理软件。",
+        "keywords": "shadowsocks, vpn, trojan, clash, surge, v2ray, gfw, stash, loon, quantumult, surfboard, openclash, matsuri, passwall, sing-box, nekoray, hiddify, mihomo, nekobox, karing",
+        "applicationCategory": "WebApplication",
+        "operatingSystem": "Any", // 支持所有操作系统（因为基于浏览器）
+        "permissions": "browser", // 需要的权限
+        "featureList": [
+            "VPN",
+            "机场",
+            "优质低价性价比",
+            "机场推荐",
+            "最新机场推荐",
+            "1.99元500G/月",
+            "9.99元1000G/不限时"
+        ],
+        "author": {
+            "@type": "Person",
+            "name": "机场推荐"
+        }
+    }
+  </script>
+  <script>
+    // 主题切换功能
+    const themeToggle = document.getElementById('themeToggle');
+    const body = document.body;
+
+    // 检查本地存储的主题偏好
+    const currentTheme = localStorage.getItem('theme') || 'dark-mode';
+    body.className = currentTheme;
+
+    themeToggle.addEventListener('click', () => {
+      if (body.classList.contains('dark-mode')) {
+        body.classList.replace('dark-mode', 'light-mode');
+        localStorage.setItem('theme', 'light-mode');
+      } else {
+        body.classList.replace('light-mode', 'dark-mode');
+        localStorage.setItem('theme', 'dark-mode');
+      }
+    });
+
+    // 添加平滑滚动效果
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+      anchor.addEventListener('click', function (e) {
+        e.preventDefault();
+        document.querySelector(this.getAttribute('href')).scrollIntoView({
+          behavior: 'smooth'
+        });
+      });
+    });
+  </script>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-ETCMPGS7S6"></script>
+  <script>
+    window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-ETCMPGS7S6');
+  </script>
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8385136408348258"
     crossorigin="anonymous"></script>
   <script>
@@ -424,7 +460,8 @@
   <header>
     <div class="container">
       <div class="header-controls">
-        <a href="https://github.com/vfdeclnc/panda-vpn-pro" class="github-btn" target="_blank" title="如若不希望失联，请给本仓库star并fork。">
+        <a href="https://github.com/vfdeclnc/panda-vpn-pro" class="github-btn" target="_blank"
+          title="如若不希望失联，请给本仓库star并fork。">
           <i class="fab fa-github"></i>
           GitHub
         </a>
@@ -438,9 +475,9 @@
       <p>1.99元500G/月，9.99元1000G/不限时，价格全网最低，长期稳定可靠的科学上网解决方案，告别传统VPN的高价与不稳定</p>
     </div>
   </header>
-    <div id="webtraf_17015" style="width:100%;display: flex;justify-content: center; align-items: center;">
-      <script type="text/javascript" src="https://webtrafic.ru/ads.php?uid=17015" async></script>
-    </div>
+  <div id="webtraf_17015" style="width:100%;display: flex;justify-content: center; align-items: center;">
+    <script type="text/javascript" src="https://webtrafic.ru/ads.php?uid=17015" async></script>
+  </div>
   <div class="container">
     <div class="warning-banner">
       <i class="fas fa-exclamation-triangle"></i>
@@ -516,7 +553,8 @@
           </td>
           <td>5.99 ￥ / 月 / 1000 GB</td>
           <td>18.9 ￥ / 不限时 / 1000 GB</td>
-          <td><a href="https://xn--mes358aby2apfg.com/#/register?code=yayApaSY" target="_blank" class="btn">访问官网</a></td>
+          <td><a href="https://xn--mes358aby2apfg.com/#/register?code=yayApaSY" target="_blank" class="btn">访问官网</a>
+          </td>
         </tr>
         <tr>
           <td class="create-time">2024.11.05</td>
@@ -537,7 +575,8 @@
           </td>
           <td>1.9 ￥ / 月 / 500 GB</td>
           <td>14.9 ￥ / 不限时 / 1000 GB</td>
-          <td><a href="https://xn--mes358al14ay7i.site/#/register?code=A42GZudh" target="_blank" class="btn">访问官网</a></td>
+          <td><a href="https://xn--mes358al14ay7i.site/#/register?code=A42GZudh" target="_blank" class="btn">访问官网</a>
+          </td>
         </tr>
       </tbody>
     </table>
@@ -631,7 +670,8 @@
   <div class="links">
     <p>友情链接：
       <a href="https://m3u8.xuehuayu.cn?utm_source=https://vpn.zzmy.dpdns.org" target="_blank">m3u8加速播放器</a> |
-      <a href="https://chromewebstore.google.com/detail/kk-player/pegiockicjmdnkjbnppeeakeogdkegac?hl=zh-CN&utm_source=https://vpn.zzmy.dpdns.org" target="_blank">免费影视扩展</a> |
+      <a href="https://chromewebstore.google.com/detail/kk-player/pegiockicjmdnkjbnppeeakeogdkegac?hl=zh-CN&utm_source=https://vpn.zzmy.dpdns.org"
+        target="_blank">免费影视扩展</a> |
       <a href="https://laonongmin.online?utm_source=https://vpn.zzmy.dpdns.org" target="_blank">免费影视APP</a> |
       <a href="https://chrome.xuehuayu.cn?utm_source=https://vpn.zzmy.dpdns.org" target="_blank">Chrome参数生成器</a>
     </p>
@@ -639,40 +679,17 @@
   <footer>
     <div class="container">
       <p>本页面仅为信息分享，不保证机场的长期稳定性，使用任何翻墙工具都存在一定风险。</p>
-      <p>如若不希望失联，请点一下<a class="github-href" href="https://github.com/vfdeclnc/panda-vpn-pro" target="_blank"><i
-            style="margin-right: 5px;" class="fab fa-github"></i>GitHub</a>，给本仓库一个star并fork。</p>
+      <p>
+        如若不希望失联，请点一下
+        <a class="github-href" href="https://github.com/vfdeclnc/panda-vpn-pro" target="_blank">
+          <i style="margin-right: 5px;" class="fab fa-github"></i>
+          GitHub
+        </a>
+        ，给本仓库一个star并fork。
+      </p>
     </div>
   </footer>
 
-  <script>
-    // 主题切换功能
-    const themeToggle = document.getElementById('themeToggle');
-    const body = document.body;
-
-    // 检查本地存储的主题偏好
-    const currentTheme = localStorage.getItem('theme') || 'dark-mode';
-    body.className = currentTheme;
-
-    themeToggle.addEventListener('click', () => {
-      if (body.classList.contains('dark-mode')) {
-        body.classList.replace('dark-mode', 'light-mode');
-        localStorage.setItem('theme', 'light-mode');
-      } else {
-        body.classList.replace('light-mode', 'dark-mode');
-        localStorage.setItem('theme', 'dark-mode');
-      }
-    });
-
-    // 添加平滑滚动效果
-    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-      anchor.addEventListener('click', function (e) {
-        e.preventDefault();
-        document.querySelector(this.getAttribute('href')).scrollIntoView({
-          behavior: 'smooth'
-        });
-      });
-    });
-  </script>
 </body>
 
 </html>
