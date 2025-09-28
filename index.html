@@ -325,8 +325,12 @@
     }
 
     .links {
+      position: sticky;
+      bottom: 0;
+      background: var(--bg-primary);
       padding: 5px 10px;
       text-align: center;
+      border-top: 1px solid var(--border-color);
     }
 
     .links a {
@@ -340,9 +344,9 @@
 
     footer {
       text-align: center;
-      padding: 30px 0;
-      margin-top: 50px;
-      border-top: 1px solid var(--border-color);
+      padding-bottom: 30px;
+      /* margin-top: 50px; */
+      /* border-top: 1px solid var(--border-color); */
       color: var(--text-secondary);
       font-size: 0.9rem;
     }
@@ -377,6 +381,59 @@
       }
     }
   </style>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      // 主题切换功能
+      const themeToggle = document.getElementById('themeToggle');
+      const body = document.body;
+      // 检查本地存储的主题偏好
+      const currentTheme = localStorage.getItem('theme') || 'dark-mode';
+      body.className = currentTheme;
+
+      themeToggle.addEventListener('click', () => {
+        if (body.classList.contains('dark-mode')) {
+          body.classList.replace('dark-mode', 'light-mode');
+          localStorage.setItem('theme', 'light-mode');
+        } else {
+          body.classList.replace('light-mode', 'dark-mode');
+          localStorage.setItem('theme', 'dark-mode');
+        }
+      });
+
+      // 添加平滑滚动效果
+      document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener('click', function (e) {
+          e.preventDefault();
+          document.querySelector(this.getAttribute('href')).scrollIntoView({
+            behavior: 'smooth'
+          });
+        });
+      });
+    })
+
+  </script>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-ETCMPGS7S6"></script>
+  <script>
+    window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-ETCMPGS7S6');
+  </script>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8385136408348258"
+    crossorigin="anonymous"></script>
+  <script>
+    (function () {
+      var bp = document.createElement('script');
+      var curProtocol = window.location.protocol.split(':')[0];
+      if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+      }
+      else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+      }
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(bp, s);
+    })();
+  </script>
   <!-- 5. 最重要的：结构化数据 (声明这是一个Web应用) -->
   <script type="application/ld+json">
     {
@@ -403,56 +460,6 @@
             "name": "机场推荐"
         }
     }
-  </script>
-  <script>
-    // 主题切换功能
-    const themeToggle = document.getElementById('themeToggle');
-    const body = document.body;
-
-    // 检查本地存储的主题偏好
-    const currentTheme = localStorage.getItem('theme') || 'dark-mode';
-    body.className = currentTheme;
-
-    themeToggle.addEventListener('click', () => {
-      if (body.classList.contains('dark-mode')) {
-        body.classList.replace('dark-mode', 'light-mode');
-        localStorage.setItem('theme', 'light-mode');
-      } else {
-        body.classList.replace('light-mode', 'dark-mode');
-        localStorage.setItem('theme', 'dark-mode');
-      }
-    });
-
-    // 添加平滑滚动效果
-    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-      anchor.addEventListener('click', function (e) {
-        e.preventDefault();
-        document.querySelector(this.getAttribute('href')).scrollIntoView({
-          behavior: 'smooth'
-        });
-      });
-    });
-  </script>
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-ETCMPGS7S6"></script>
-  <script>
-    window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-ETCMPGS7S6');
-  </script>
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8385136408348258"
-    crossorigin="anonymous"></script>
-  <script>
-    (function () {
-      var bp = document.createElement('script');
-      var curProtocol = window.location.protocol.split(':')[0];
-      if (curProtocol === 'https') {
-        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
-      }
-      else {
-        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
-      }
-      var s = document.getElementsByTagName("script")[0];
-      s.parentNode.insertBefore(bp, s);
-    })();
   </script>
 </head>
 
