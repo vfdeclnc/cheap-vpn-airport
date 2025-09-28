@@ -73,6 +73,27 @@
       margin: 0;
     }
 
+    body::before {
+      content: "";
+      position: fixed;
+      left: 0;
+      top: 0;
+      z-index: 0;
+      width: 100%;
+      height: 100%;
+      background: url("https://t.alcy.cc/pc");
+      background-size: cover;
+      background-repeat: no-repeat;
+      opacity: 0.2;
+    }
+
+    .main {
+      position: relative;
+      z-index: 1;
+      width: 100% !important;
+      background: transparent;
+    }
+
     .container {
       max-width: 1200px;
       margin: 0 auto;
@@ -80,7 +101,7 @@
     }
 
     header {
-      background: var(--header-gradient);
+      /* background: var(--header-gradient); */
       padding: 30px 0;
       border-bottom: 1px solid var(--border-color);
       text-align: center;
@@ -465,215 +486,232 @@
 </head>
 
 <body class="dark-mode">
-  <header>
+  <div class="main">
+    <header>
+      <div class="container">
+        <div class="header-controls">
+          <a href="https://github.com/vfdeclnc/panda-vpn-pro" class="github-btn" target="_blank"
+            title="如若不希望失联，请给本仓库star并fork。">
+            <i class="fab fa-github"></i>
+            GitHub
+          </a>
+          <div class="theme-toggle" id="themeToggle">
+            <i class="fas fa-sun"></i>
+            <i class="fas fa-moon"></i>
+            <div class="toggle-circle"></div>
+          </div>
+        </div>
+        <h1>优质低价性价比机场推荐</h1>
+        <p>1.99元500G/月，9.99元1000G/不限时，价格全网最低，长期稳定可靠的科学上网解决方案，告别传统VPN的高价与不稳定</p>
+      </div>
+    </header>
+    <div id="webtraf_17015" style="width:100%;display: flex;justify-content: center; align-items: center;">
+      <script type="text/javascript" src="https://webtrafic.ru/ads.php?uid=17015" async></script>
+    </div>
     <div class="container">
-      <div class="header-controls">
-        <a href="https://github.com/vfdeclnc/panda-vpn-pro" class="github-btn" target="_blank"
-          title="如若不希望失联，请给本仓库star并fork。">
-          <i class="fab fa-github"></i>
-          GitHub
-        </a>
-        <div class="theme-toggle" id="themeToggle">
-          <i class="fas fa-sun"></i>
-          <i class="fas fa-moon"></i>
-          <div class="toggle-circle"></div>
+      <div class="warning-banner">
+        <i class="fas fa-exclamation-triangle"></i>
+        <div>
+          <strong>重要提醒：</strong> 翻墙属于敏感行为，请勿使用国内邮箱注册，避免填写真实敏感信息，注意保护个人隐私。没有任何翻墙工具是绝对安全的。
         </div>
       </div>
-      <h1>优质低价性价比机场推荐</h1>
-      <p>1.99元500G/月，9.99元1000G/不限时，价格全网最低，长期稳定可靠的科学上网解决方案，告别传统VPN的高价与不稳定</p>
-    </div>
-  </header>
-  <div id="webtraf_17015" style="width:100%;display: flex;justify-content: center; align-items: center;">
-    <script type="text/javascript" src="https://webtrafic.ru/ads.php?uid=17015" async></script>
-  </div>
-  <div class="container">
-    <div class="warning-banner">
-      <i class="fas fa-exclamation-triangle"></i>
-      <div>
-        <strong>重要提醒：</strong> 翻墙属于敏感行为，请勿使用国内邮箱注册，避免填写真实敏感信息，注意保护个人隐私。没有任何翻墙工具是绝对安全的。
+
+      <h2 class="section-title">推荐机场列表<span>（套餐价格和内容可能发生变化，请以官网实际为准）</span></h2>
+
+      <table class="airport-table">
+        <thead>
+          <tr>
+            <th class="create-time">创建</th>
+            <th>名称</th>
+            <th class="protocol">协议</th>
+            <th>限时</th>
+            <th>不限时</th>
+            <th>官网</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="create-time">2023.05.01</td>
+            <td>农夫山泉<br>(兼顾速度与价格)</td>
+            <td class="protocol">
+              <span class="protocol-badge vless">VLESS</span>
+              <span class="protocol-badge ss">SS</span>
+            </td>
+            <td>8 ￥ / 月 / 200 GB</td>
+            <td>15 ￥ / 不限时 / 200 GB</td>
+            <td><a href="https://www.nfsq.us/#/register?code=JjW59PTY" target="_blank" class="btn">访问官网</a></td>
+          </tr>
+          <tr>
+            <td class="create-time">2023.07.01</td>
+            <td>蜂窝云<br>(解锁奈飞，延迟低)</td>
+            <td class="protocol">
+              <span class="protocol-badge vmess">VMess</span>
+              <span class="protocol-badge ss">SS</span>
+            </td>
+            <td>20 ￥ / 月 / 200 GB</td>
+            <td>22 ￥ / 不限时 / 100 GB</td>
+            <td><a href="https://api.fwcloud.life/auth/register?code=yBPSeL" target="_blank" class="btn">访问官网</a></td>
+          </tr>
+          <tr>
+            <td class="create-time">2023.03.09</td>
+            <td>亏本机场<br>(极致性价比)</td>
+            <td class="protocol">
+              <span class="protocol-badge vless">VLESS</span>
+              <span class="protocol-badge hy2">Hysteria2</span>
+            </td>
+            <td>1.99 ￥ / 月 / 500 GB</td>
+            <td>9.9 ￥ / 不限时 / 1234 GB</td>
+            <td><a href="https://knjc.cfd/#/register?code=Lhpm2QMs" target="_blank" class="btn">访问官网</a></td>
+          </tr>
+          <tr>
+            <td class="create-time">2022.12.07</td>
+            <td>一分机场<br>(兼顾速度与价格)</td>
+            <td class="protocol">
+              <span class="protocol-badge vless">VLESS</span>
+              <span class="protocol-badge hy2">Hysteria2</span>
+            </td>
+            <td>2 ￥ / 月 / 100 GB</td>
+            <td>19.88 ￥ / 不限时 / 1000 GB</td>
+            <td><a href="https://xn--4gqx1hgtfdmt.com/#/register?code=02AiAb3q" target="_blank" class="btn">访问官网</a>
+            </td>
+          </tr>
+          <tr>
+            <td class="create-time">2022.11.06</td>
+            <td>赔钱机场<br>(节点超多)</td>
+            <td class="protocol">
+              <span class="protocol-badge vless">VLESS</span>
+              <span class="protocol-badge hy2">Hysteria2</span>
+            </td>
+            <td>5.99 ￥ / 月 / 1000 GB</td>
+            <td>18.9 ￥ / 不限时 / 1000 GB</td>
+            <td><a href="https://xn--mes358aby2apfg.com/#/register?code=yayApaSY" target="_blank" class="btn">访问官网</a>
+            </td>
+          </tr>
+          <tr>
+            <td class="create-time">2024.11.05</td>
+            <td>牛逼机场</td>
+            <td class="protocol">
+              <span class="protocol-badge vless">VLESS</span>
+              <span class="protocol-badge ss">SS</span>
+            </td>
+            <td>6.9 ￥ / 月 / 1000 GB<br>23.90￥ / 年 / 每月200 GB</td>
+            <td>12.90 ￥ / 不限时 / 200 GB<br>33.90 ￥ / 不限时 / 2000 GB</td>
+            <td><a href="https://6.66jc.top/#/login?code=UJLSfGIa" target="_blank" class="btn">访问官网</a></td>
+          </tr>
+          <tr>
+            <td class="create-time">2023.04.05</td>
+            <td>高速机场</td>
+            <td class="protocol">
+              <span class="protocol-badge vless">VLESS</span>
+            </td>
+            <td>1.9 ￥ / 月 / 500 GB</td>
+            <td>14.9 ￥ / 不限时 / 1000 GB</td>
+            <td><a href="https://xn--mes358al14ay7i.site/#/register?code=A42GZudh" target="_blank" class="btn">访问官网</a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+
+      <div class="notice">
+        <div class="notice-title"><i class="fas fa-info-circle"></i> 使用须知</div>
+        <p>机场不适合用来打游戏！购买前请仔细阅读各机场的使用条款</p>
+        <p>为什么不推荐免费节点？失效快，速度差，经常换，喜欢折腾的人适合，对一般人不友好</p>
+        <p>以上都是本人使用 **至少半年以上，最多好几年，总体算稳定**</p>
+        <p>**机场的套餐一般都是互斥的**，就是说套餐没用完，购买新套餐，旧套餐会失效</p>
+        <p>机场网站可能需要翻墙访问，为防止账户被禁，套餐还剩下一点的时候，就可以续费了</p>
+      </div>
+
+      <h2 class="section-title">为什么选择机场而非传统VPN？</h2>
+
+      <div class="features">
+        <div class="feature-card">
+          <i class="fas fa-bolt"></i>
+          <h3>更快的速度</h3>
+          <p>机场专门为绕过GFW优化，相比传统VPN有更快的连接速度和更低的延迟。</p>
+        </div>
+        <div class="feature-card">
+          <i class="fas fa-shield-alt"></i>
+          <h3>更好的稳定性</h3>
+          <p>采用最新协议和技术，对抗GFW检测能力更强，连接更加稳定可靠。</p>
+        </div>
+        <div class="feature-card">
+          <i class="fas fa-wallet"></i>
+          <h3>更低的价格</h3>
+          <p>相比传统VPN，机场提供更具性价比的套餐，满足不同用户的需求。</p>
+        </div>
+      </div>
+
+      <h2 class="section-title">重要通知</h2>
+
+      <div class="notice">
+        <div class="notice-title"><i class="fas fa-bullhorn"></i> 2025.06.28 网络波动通知</div>
+        <p>近期多数机场都有较大的网络波动，电信用户可能感知比较明显。大概率是加强网络审查了。这个事情基本每年都有，力度不一，时间不定。如果近期明显感觉变卡了，勤更新订阅，然后慢慢等就好了。</p>
+      </div>
+
+      <div class="notice">
+        <div class="notice-title"><i class="fas fa-bullhorn"></i> 2023.11.02 Clash for Windows 停止更新</div>
+        <p>Clash for Windows 已停止更新，原因未知，请更换其他代理软件。注意，不要在墙内的任何地方谈论任何与翻墙相关的事情。</p>
+      </div>
+
+      <h2 class="section-title">代理软件推荐</h2>
+
+      <div class="features">
+        <div class="feature-card">
+          <i class="fab fa-windows"></i>
+          <h3>Windows</h3>
+          <p>Clash Verge, Karing, V2rayN</p>
+        </div>
+        <div class="feature-card">
+          <i class="fab fa-apple"></i>
+          <h3>macOS</h3>
+          <p>Karing, ClashX, Clash Verge, Surge</p>
+        </div>
+        <div class="feature-card">
+          <i class="fab fa-android"></i>
+          <h3>Android</h3>
+          <p>Clash for Android, Karing, V2rayNG, NekoBox</p>
+        </div>
+        <div class="feature-card">
+          <i class="fab fa-app-store-ios"></i>
+          <h3>iOS</h3>
+          <p>Shadowrocket, Karing, Quantumult X, Stash</p>
+        </div>
+      </div>
+
+      <h2 class="section-title">使用指南</h2>
+
+      <div class="features">
+        <div class="feature-card">
+          <i class="fas fa-download"></i>
+          <h3>获取订阅链接</h3>
+          <p>在机场官网注册并购买套餐后，在用户中心获取订阅链接。</p>
+        </div>
+        <div class="feature-card">
+          <i class="fas fa-cog"></i>
+          <h3>配置代理软件</h3>
+          <p>将订阅链接导入到代理软件中，软件会自动获取节点信息。</p>
+        </div>
+        <div class="feature-card">
+          <i class="fas fa-rocket"></i>
+          <h3>开始使用</h3>
+          <p>选择合适的节点，开启代理，即可开始科学上网。</p>
+        </div>
       </div>
     </div>
 
-    <h2 class="section-title">推荐机场列表<span>（套餐价格和内容可能发生变化，请以官网实际为准）</span></h2>
-
-    <table class="airport-table">
-      <thead>
-        <tr>
-          <th class="create-time">创建</th>
-          <th>名称</th>
-          <th class="protocol">协议</th>
-          <th>限时</th>
-          <th>不限时</th>
-          <th>官网</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td class="create-time">2023.05.01</td>
-          <td>农夫山泉<br>(兼顾速度与价格)</td>
-          <td class="protocol">
-            <span class="protocol-badge vless">VLESS</span>
-            <span class="protocol-badge ss">SS</span>
-          </td>
-          <td>8 ￥ / 月 / 200 GB</td>
-          <td>15 ￥ / 不限时 / 200 GB</td>
-          <td><a href="https://www.nfsq.us/#/register?code=JjW59PTY" target="_blank" class="btn">访问官网</a></td>
-        </tr>
-        <tr>
-          <td class="create-time">2023.07.01</td>
-          <td>蜂窝云<br>(解锁奈飞，延迟低)</td>
-          <td class="protocol">
-            <span class="protocol-badge vmess">VMess</span>
-            <span class="protocol-badge ss">SS</span>
-          </td>
-          <td>20 ￥ / 月 / 200 GB</td>
-          <td>22 ￥ / 不限时 / 100 GB</td>
-          <td><a href="https://api.fwcloud.life/auth/register?code=yBPSeL" target="_blank" class="btn">访问官网</a></td>
-        </tr>
-        <tr>
-          <td class="create-time">2023.03.09</td>
-          <td>亏本机场<br>(极致性价比)</td>
-          <td class="protocol">
-            <span class="protocol-badge vless">VLESS</span>
-            <span class="protocol-badge hy2">Hysteria2</span>
-          </td>
-          <td>1.99 ￥ / 月 / 500 GB</td>
-          <td>9.9 ￥ / 不限时 / 1234 GB</td>
-          <td><a href="https://knjc.cfd/#/register?code=Lhpm2QMs" target="_blank" class="btn">访问官网</a></td>
-        </tr>
-        <tr>
-          <td class="create-time">2022.12.07</td>
-          <td>一分机场<br>(兼顾速度与价格)</td>
-          <td class="protocol">
-            <span class="protocol-badge vless">VLESS</span>
-            <span class="protocol-badge hy2">Hysteria2</span>
-          </td>
-          <td>2 ￥ / 月 / 100 GB</td>
-          <td>19.88 ￥ / 不限时 / 1000 GB</td>
-          <td><a href="https://xn--4gqx1hgtfdmt.com/#/register?code=02AiAb3q" target="_blank" class="btn">访问官网</a></td>
-        </tr>
-        <tr>
-          <td class="create-time">2022.11.06</td>
-          <td>赔钱机场<br>(节点超多)</td>
-          <td class="protocol">
-            <span class="protocol-badge vless">VLESS</span>
-            <span class="protocol-badge hy2">Hysteria2</span>
-          </td>
-          <td>5.99 ￥ / 月 / 1000 GB</td>
-          <td>18.9 ￥ / 不限时 / 1000 GB</td>
-          <td><a href="https://xn--mes358aby2apfg.com/#/register?code=yayApaSY" target="_blank" class="btn">访问官网</a>
-          </td>
-        </tr>
-        <tr>
-          <td class="create-time">2024.11.05</td>
-          <td>牛逼机场</td>
-          <td class="protocol">
-            <span class="protocol-badge vless">VLESS</span>
-            <span class="protocol-badge ss">SS</span>
-          </td>
-          <td>6.9 ￥ / 月 / 1000 GB<br>23.90￥ / 年 / 每月200 GB</td>
-          <td>12.90 ￥ / 不限时 / 200 GB<br>33.90 ￥ / 不限时 / 2000 GB</td>
-          <td><a href="https://6.66jc.top/#/login?code=UJLSfGIa" target="_blank" class="btn">访问官网</a></td>
-        </tr>
-        <tr>
-          <td class="create-time">2023.04.05</td>
-          <td>高速机场</td>
-          <td class="protocol">
-            <span class="protocol-badge vless">VLESS</span>
-          </td>
-          <td>1.9 ￥ / 月 / 500 GB</td>
-          <td>14.9 ￥ / 不限时 / 1000 GB</td>
-          <td><a href="https://xn--mes358al14ay7i.site/#/register?code=A42GZudh" target="_blank" class="btn">访问官网</a>
-          </td>
-        </tr>
-      </tbody>
-    </table>
-
-    <div class="notice">
-      <div class="notice-title"><i class="fas fa-info-circle"></i> 使用须知</div>
-      <p>机场不适合用来打游戏！购买前请仔细阅读各机场的使用条款</p>
-      <p>为什么不推荐免费节点？失效快，速度差，经常换，喜欢折腾的人适合，对一般人不友好</p>
-      <p>以上都是本人使用 **至少半年以上，最多好几年，总体算稳定**</p>
-      <p>**机场的套餐一般都是互斥的**，就是说套餐没用完，购买新套餐，旧套餐会失效</p>
-      <p>机场网站可能需要翻墙访问，为防止账户被禁，套餐还剩下一点的时候，就可以续费了</p>
-    </div>
-
-    <h2 class="section-title">为什么选择机场而非传统VPN？</h2>
-
-    <div class="features">
-      <div class="feature-card">
-        <i class="fas fa-bolt"></i>
-        <h3>更快的速度</h3>
-        <p>机场专门为绕过GFW优化，相比传统VPN有更快的连接速度和更低的延迟。</p>
+    <footer>
+      <div class="container">
+        <p>本页面仅为信息分享，不保证机场的长期稳定性，使用任何翻墙工具都存在一定风险。</p>
+        <p>
+          如若不希望失联，请点一下
+          <a class="github-href" href="https://github.com/vfdeclnc/panda-vpn-pro" target="_blank">
+            <i style="margin-right: 5px;" class="fab fa-github"></i>
+            GitHub
+          </a>
+          ，给本仓库一个star并fork。
+        </p>
       </div>
-      <div class="feature-card">
-        <i class="fas fa-shield-alt"></i>
-        <h3>更好的稳定性</h3>
-        <p>采用最新协议和技术，对抗GFW检测能力更强，连接更加稳定可靠。</p>
-      </div>
-      <div class="feature-card">
-        <i class="fas fa-wallet"></i>
-        <h3>更低的价格</h3>
-        <p>相比传统VPN，机场提供更具性价比的套餐，满足不同用户的需求。</p>
-      </div>
-    </div>
-
-    <h2 class="section-title">重要通知</h2>
-
-    <div class="notice">
-      <div class="notice-title"><i class="fas fa-bullhorn"></i> 2025.06.28 网络波动通知</div>
-      <p>近期多数机场都有较大的网络波动，电信用户可能感知比较明显。大概率是加强网络审查了。这个事情基本每年都有，力度不一，时间不定。如果近期明显感觉变卡了，勤更新订阅，然后慢慢等就好了。</p>
-    </div>
-
-    <div class="notice">
-      <div class="notice-title"><i class="fas fa-bullhorn"></i> 2023.11.02 Clash for Windows 停止更新</div>
-      <p>Clash for Windows 已停止更新，原因未知，请更换其他代理软件。注意，不要在墙内的任何地方谈论任何与翻墙相关的事情。</p>
-    </div>
-
-    <h2 class="section-title">代理软件推荐</h2>
-
-    <div class="features">
-      <div class="feature-card">
-        <i class="fab fa-windows"></i>
-        <h3>Windows</h3>
-        <p>Clash Verge, Karing, V2rayN</p>
-      </div>
-      <div class="feature-card">
-        <i class="fab fa-apple"></i>
-        <h3>macOS</h3>
-        <p>Karing, ClashX, Clash Verge, Surge</p>
-      </div>
-      <div class="feature-card">
-        <i class="fab fa-android"></i>
-        <h3>Android</h3>
-        <p>Clash for Android, Karing, V2rayNG, NekoBox</p>
-      </div>
-      <div class="feature-card">
-        <i class="fab fa-app-store-ios"></i>
-        <h3>iOS</h3>
-        <p>Shadowrocket, Karing, Quantumult X, Stash</p>
-      </div>
-    </div>
-
-    <h2 class="section-title">使用指南</h2>
-
-    <div class="features">
-      <div class="feature-card">
-        <i class="fas fa-download"></i>
-        <h3>获取订阅链接</h3>
-        <p>在机场官网注册并购买套餐后，在用户中心获取订阅链接。</p>
-      </div>
-      <div class="feature-card">
-        <i class="fas fa-cog"></i>
-        <h3>配置代理软件</h3>
-        <p>将订阅链接导入到代理软件中，软件会自动获取节点信息。</p>
-      </div>
-      <div class="feature-card">
-        <i class="fas fa-rocket"></i>
-        <h3>开始使用</h3>
-        <p>选择合适的节点，开启代理，即可开始科学上网。</p>
-      </div>
-    </div>
+    </footer>
   </div>
   <div class="links">
     <p>友情链接：
@@ -684,20 +722,6 @@
       <a href="https://chrome.xuehuayu.cn?utm_source=https://vpn.zzmy.dpdns.org" target="_blank">Chrome参数生成器</a>
     </p>
   </div>
-  <footer>
-    <div class="container">
-      <p>本页面仅为信息分享，不保证机场的长期稳定性，使用任何翻墙工具都存在一定风险。</p>
-      <p>
-        如若不希望失联，请点一下
-        <a class="github-href" href="https://github.com/vfdeclnc/panda-vpn-pro" target="_blank">
-          <i style="margin-right: 5px;" class="fab fa-github"></i>
-          GitHub
-        </a>
-        ，给本仓库一个star并fork。
-      </p>
-    </div>
-  </footer>
-
 </body>
 
 </html>
