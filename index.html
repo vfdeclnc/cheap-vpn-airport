@@ -456,16 +456,15 @@
     crossorigin="anonymous"></script>
   <script>
     (function () {
-      var bp = document.createElement('script');
-      var curProtocol = window.location.protocol.split(':')[0];
+      const bp = document.createElement('script');
+      const curProtocol = window.location.protocol.split(':')[0];
       if (curProtocol === 'https') {
         bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
       }
       else {
         bp.src = 'http://push.zhanzhang.baidu.com/push.js';
       }
-      var s = document.getElementsByTagName("script")[0];
-      s.parentNode.insertBefore(bp, s);
+      document.head.append(bp)
     })();
   </script>
   <!-- 5. 最重要的：结构化数据 (声明这是一个Web应用) -->
