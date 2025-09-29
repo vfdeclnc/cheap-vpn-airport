@@ -1,5 +1,5 @@
 如若你不希望与本仓库失联，请点一下右上角  **star**⭐  并  **fork**  本仓库。  
-也可收藏新地址 [https://jc.zzmy.dpdns.org/](https://jc.zzmy.dpdns.org/)
+也可收藏新地址 [(翻墙访问)https://jc.zzmy.dpdns.org/](https://jc.zzmy.dpdns.org/)
 ---
 ## 只推荐性价比高的机场，往下有机场列表，可对比清楚再买。
 ### 为什么不推荐免费节点？失效快，速度差，经常换，喜欢折腾的人适合，对一般人不友好
