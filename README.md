@@ -18,8 +18,8 @@
 |2023.03.09|[**亏本机场**](https://xn--7kq24s4ynvb.site/#/register?code=Lhpm2QMs)| hy2、vless |**1.99 ￥ / 月 / 500 GB**|**9.9 ￥ / 不限时 / 1234 GB**|延迟较低，极致性价比|
 |2022.12.07|[**一分机场**](https://xn--4gqx1hgtfdmt.com/#/register?code=02AiAb3q)| hy2、vless |**2 ￥ / 月 / 100 GB**|**19.88 ￥ / 不限时 / 1000 GB**|延迟低，节点多|
 |2022.11.06|[**赔钱机场**](https://xn--mes358aby2apfg.com/#/register?code=yayApaSY)| vless、hy2 |**5.99 ￥ / 月 / 1000 GB**|**18.9 ￥ / 不限时 / 1000 GB；<br>688 ￥ / 永久可滥用 / 99999 GB**|延迟较低，节点很多|
-|2022.11.06|[**牛逼机场**](https://6.66jc.top/#/login?code=UJLSfGIa)| vless、hy2 |**6.9 ￥ / 月 / 1000 GB<br>23.90￥ / 年 / 每月200 GB**|**12.90 ￥ / 不限时 / 200 GB<br>33.90 ￥ / 不限时 / 2000 GB**||
-|2025.03.18|[**良心云**](https://xn--9kqz23b19z.com/#/register?code=MMIZIeGe)| vless、hy2 |**6 ￥ / 月 / 1000 GB**|**无**|解锁流媒体|
+|2022.11.06|[**牛逼机场**](https://6.66jc.top/#/login?code=UJLSfGIa)| vless、hy2 |**6.9 ￥ / 月 / 1000 GB<br>23.90￥ / 年 / 每月200 GB**|**12.90 ￥ / 不限时 / 200 GB<br>33.90 ￥ / 不限时 / 2000 GB**|适合中度用户|
+|2025.03.18|[**良心云**](https://xn--9kqz23b19z.com/#/register?code=MMIZIeGe)| vless、hy2 |**6 ￥ / 月 / 1000 GB**|**无**|适合重度用户，解锁流媒体|
 |2023.04.05|[**高速机场**](https://xn--mes358al14ay7i.site/#/register?code=A42GZudh)| vless |**1.9 ￥ / 月 / 500 GB**|**14.9 ￥ / 不限时 / 1000 GB**|大部分美国节点，<br>需要美国节点可选|
 
 ---
