@@ -29,9 +29,9 @@
 
 |创建|官网<br>(点击跳转)|协议|限时套餐|推荐<br>不限时套餐|其他|
 |-|-|-|-|-|-|
+|2023.05.04|[**自由猫**](https://us.freecat.cc/register?code=yA5d4GFo)| - |**9 ￥ / 月 / 100 GB**|**50 ￥ / 不限时 / 500 GB**||
 |2023.07.01|[**蜂窝云**](https://api.fwcloud.life/auth/register?code=yBPSeL)| ss、vmess |**20 ￥ / 月 / 200 GB**|**22 ￥ / 不限时 / 100 GB**|延迟低，<br>**限时套餐解锁奈飞，问客服**|
 |2022.04.26|[**魔戒**](https://mojie.xn--yrs494l.com/register?aff=qt6C1VtA)| - |无|**14.9 ￥ / 不限时 / 130 GB<br>688 ￥ / 不限时 / 10000 GB**|解锁流媒体|
-|2023.05.04|[**自由猫**](https://us.freecat.cc/register?code=yA5d4GFo)| - |**9 ￥ / 月 / 100 GB**|**50 ￥ / 不限时 / 500 GB**||
 
 
 ---
