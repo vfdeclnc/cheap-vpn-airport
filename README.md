@@ -1,14 +1,17 @@
 # 便宜机场推荐 - 免费·优质·低价·超高性价比
 
 如若你不希望与本仓库失联，请点一下右上角  **star**⭐  并  **fork**  本仓库。  
-也可收藏新地址 [https://jc.zzmy.dpdns.org/](https://jc.zzmy.dpdns.org/)
 ---
+
+#### 本项目网站 [https://jc.zzmy.dpdns.org/](https://jc.zzmy.dpdns.org/)
+
 ### 请知晓：机场都有跑路的风险。也没有任何翻墙工具是绝对安全的。
 
 👍 部分机场网站需翻墙访问，所以还想继续使用，套餐还剩下一点的时候，就可以续费了。  
 👍 以下机场都是我使用的 **价格较低** 的机场，最少使用了 **半年以上，最多的使用好几年，总体算稳定，请根据自身情况购买**。  
 👍 如果 **用量比较大**，购买 **月付套餐**，便宜流量多；如果 **用量不大**，购买 **不限时套餐**，随时想用就用，不用担心过期。  
 👍 **机场的套餐一般都是互斥的**，就是说套餐没用完，购买新套餐，旧套餐会失效。
+
 
 ### 软件推荐 
 推荐使用[karing.app](https://karing.app) ，或 使用**机场教程推荐**的软件
@@ -36,9 +39,11 @@
 ### 免费节点
 
 [https://www.bsbb.cc/](https://www.bsbb.cc/?utm_source=https://zzmy.dpdns.org)
+
 ---
 ### 友情推荐：  
 [影视资源站扩展·免费·加速·去广告](https://chromewebstore.google.com/detail/kk-player/pegiockicjmdnkjbnppeeakeogdkegac?hl=zh-CN&utm_source=https://github.com/vfdeclnc/panda-vpn-pro)
+
 ---
 
 📢 **重要通知**：此部分仅用于对机场的重要变动及突发情况作出必要的说明。
