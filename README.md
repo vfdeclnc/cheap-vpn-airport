@@ -37,7 +37,8 @@
 
 [https://www.bsbb.cc/](https://www.bsbb.cc/?utm_source=https://zzmy.dpdns.org)
 ---
-**友情推荐：[免费影视浏览器扩展](https://chromewebstore.google.com/detail/kk-player/pegiockicjmdnkjbnppeeakeogdkegac?hl=zh-CN&utm_source=https://github.com/vfdeclnc/panda-vpn-pro)**
+### 友情推荐：  
+[影视资源站扩展·免费·加速·去广告](https://chromewebstore.google.com/detail/kk-player/pegiockicjmdnkjbnppeeakeogdkegac?hl=zh-CN&utm_source=https://github.com/vfdeclnc/panda-vpn-pro)
 ---
 
 📢 **重要通知**：此部分仅用于对机场的重要变动及突发情况作出必要的说明。
