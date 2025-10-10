@@ -1,9 +1,8 @@
-# 便宜机场推荐-优质·低价·超高性价比
+# 便宜机场推荐 - 免费·优质·低价·超高性价比
 
 如若你不希望与本仓库失联，请点一下右上角  **star**⭐  并  **fork**  本仓库。  
 也可收藏新地址 [https://jc.zzmy.dpdns.org/](https://jc.zzmy.dpdns.org/)
 ---
-### 为什么不推荐免费节点？失效快·速度差·经常换，对一般人不友好
 ### 请知晓：机场都有跑路的风险。也没有任何翻墙工具是绝对安全的。
 
 👍 部分机场网站需翻墙访问，所以还想继续使用，套餐还剩下一点的时候，就可以续费了。  
@@ -34,7 +33,9 @@
 |2023.07.01|[**蜂窝云**](https://api.fwcloud.life/auth/register?code=yBPSeL)| ss、vmess |**20 ￥ / 月 / 200 GB**|**22 ￥ / 不限时 / 100 GB**|延迟低，<br>**限时套餐解锁奈飞，问客服**|
 |2022.04.26|[**魔戒**](https://mojie.xn--yrs494l.com/register?aff=qt6C1VtA)| - |无|**14.9 ￥ / 不限时 / 130 GB<br>688 ￥ / 不限时 / 10000 GB**|解锁流媒体|
 
+### 免费节点
 
+[https://www.bsbb.cc/](https://www.bsbb.cc/?utm_source=https://zzmy.dpdns.org)
 ---
 **友情推荐：[免费影视浏览器扩展](https://chromewebstore.google.com/detail/kk-player/pegiockicjmdnkjbnppeeakeogdkegac?hl=zh-CN&utm_source=https://github.com/vfdeclnc/panda-vpn-pro)**
 ---
