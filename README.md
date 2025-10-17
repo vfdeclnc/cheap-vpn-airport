@@ -42,7 +42,7 @@
 
 ---
 ### 友情推荐：  
-[影视资源站扩展·免费·加速·去广告](https://chromewebstore.google.com/detail/kk-player/pegiockicjmdnkjbnppeeakeogdkegac?hl=zh-CN&utm_source=https://github.com/vfdeclnc/panda-vpn-pro)
+[影视资源站扩展·免费·加速·去广告](https://chromewebstore.google.com/search/KK%20Player?hl=zh-CN&utm_source=https://github.com/vfdeclnc/panda-vpn-pro)
 
 ---
 
