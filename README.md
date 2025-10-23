@@ -31,16 +31,17 @@
 |2023.07.01|[**蜂窝云**](https://api.fwcloud.life/auth/register?code=yBPSeL)| ss、vmess |**20 ￥ / 月 / 200 GB**|**22 ￥ / 不限时 / 100 GB**|延迟极低，<br>**限时套餐解锁奈飞VIP，先问客服**|
 |2022.04.26|[**魔戒**](https://mojie.xn--yrs494l.com/register?aff=qt6C1VtA)| - |无|**14.9 ￥ / 不限时 / 130 GB<br>688 ￥ / 不限时 / 10000 GB**|解锁流媒体|
 
+
+---
+### 友情推荐：  
+[影视资源站扩展·免费·加速·去广告](https://chrome.google.com/webstore/detail/pegiockicjmdnkjbnppeeakeogdkegac?hl=zh-CN&utm_source=https://github.com/vfdeclnc/panda-vpn-pro)
+
+---
 ### 免费节点
 
 [https://www.bsbb.cc/](https://www.bsbb.cc/?utm_source=https://zzmy.dpdns.org)
 
 ---
-### 友情推荐：  
-[影视资源站扩展·免费·加速·去广告](https://chromewebstore.google.com/search/KK%20Player?hl=zh-CN&utm_source=https://github.com/vfdeclnc/panda-vpn-pro)
-
----
-
 📢 **重要通知**：此部分仅用于对机场的重要变动及突发情况作出必要的说明。
 
  - 🗓️ 2025.06.28 🗓️ **近期多数机场都有较大的网络波动**，电信用户可能感知比较明显。**大概率是加强网络审查了**（可自行搜索关键词：“2025”，“净网”）。这个事情基本每年都有，力度不一，时间不定，持续时间也不等。如果近期明显感觉变卡了，勤更新订阅，然后慢慢等就好了。这次受影响的主要是中转机场，原因是国内入口各种被通报。接下来可能需要做好打“持久战”的准备了。若真如此，对机场主的财力和维护速度会是不小的考验。因为有些机场可能会扛不住压力而跑路。
