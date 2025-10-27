@@ -87,21 +87,24 @@
         .loading {
             margin-top: 300px;
             white-space: nowrap;
-            overflow: hidden;
-            animation: loading 2s infinite;
         }
+
+      .loading .elliphis {
+        overflow: hidden;
+        animation: loading 2s infinite;
+      }
 
         @keyframes loading {
             0% {
-                width: 186px;
+                width: 0px;
             }
 
             50% {
-                width: 228px;
+                width: 50px;
             }
 
             100% {
-                width: 186px;
+                width: 0px;
             }
         }
     </style>
@@ -132,7 +135,7 @@
 </head>
 
 <body>
-    <div class="loading">Loading...</div>
+    <div class="loading">Loading<span class="elliphis">...</span></div>
 </body>
 
 </html>
