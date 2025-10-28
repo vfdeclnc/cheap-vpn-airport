@@ -20,7 +20,6 @@
 |创建|官网<br>(点击跳转)|协议|限时套餐|推荐<br>不限时套餐|其他|
 |-|-|-|-|-|-|
 |2023.05.01|[**农夫山泉**](https://www.nfsq.us/#/register?code=JjW59PTY)| vless、ss |**8 ￥ / 月 / 200 GB**|**15 ￥ / 不限时 / 200 GB<br>70 ￥ / 不限时 / 1000 GB**|延迟低，兼顾速度与价格，<br>大部分是亚洲节点|
-|2024.05.31|[**极速云**](https://w4.rouhe88.com/#/register?code=OSjXw5aR)| ss |**15.99 ￥ / 月 / 1200 GB<br>58 ￥ / 季 / 每月1500 G<br>218 ￥ / 年 / 每月1500 G**|**88 ￥ / 不限时 / 1000 GB<br>168 ￥ / 不限时 / 2500 GB<br>288 ￥ / 不限时 / 5000 GB**|节点倍率8倍，高速4K无压力|
 |2023.03.09|[**亏本机场**](https://xn--7kq24s4ynvb.site/#/register?code=Lhpm2QMs)| hy2、vless |**1.99 ￥ / 月 / 500 GB**|**9.9 ￥ / 不限时 / 1234 GB**|延迟较低，极致性价比|
 |2025.03.18|[**良心云**](https://xn--9kqz23b19z.com/#/register?code=MMIZIeGe)| vless、hy2 |**6 ￥ / 月 / 1000 GB**|**149 ￥ / 不限时 / 10000 GB**|适合重度用户，解锁流媒体|
 |2022.12.07|[**一分机场**](https://xn--4gqx1hgtfdmt.com/#/register?code=02AiAb3q)| hy2、vless |**2 ￥ / 月 / 100 GB**|**19.88 ￥ / 不限时 / 1000 GB**|延迟低，节点多|
@@ -29,6 +28,7 @@
 |2023.04.05|[**高速机场**](https://xn--mes358al14ay7i.site/#/register?code=A42GZudh)| vless |**1.9 ￥ / 月 / 500 GB**|**14.9 ￥ / 不限时 / 1000 GB**|大部分美国节点，<br>需要美国节点可选|
 |2023.05.04|[**自由猫**](https://us.freecat.cc/register?code=yA5d4GFo)| Trojan |**9 ￥ / 月 / 100 GB**|**50 ￥ / 不限时 / 500 GB**||
 |2023.07.01|[**蜂窝云**](https://api.fwcloud.life/auth/register?code=yBPSeL)| ss、vmess |**20 ￥ / 月 / 200 GB**|**22 ￥ / 不限时 / 100 GB**|延迟极低，<br>**限时套餐解锁奈飞VIP，先问客服**|
+|2024.05.31|[**极速云**](https://w4.rouhe88.com/#/register?code=OSjXw5aR)| ss |**15.99 ￥ / 月 / 1200 GB<br>58 ￥ / 季 / 每月1500 G<br>218 ￥ / 年 / 每月1500 G**|**88 ￥ / 不限时 / 1000 GB<br>168 ￥ / 不限时 / 2500 GB<br>288 ￥ / 不限时 / 5000 GB**|节点倍率8倍，高速4K无压力|
 |2022.04.26|[**魔戒**](https://mojie.xn--yrs494l.com/register?aff=qt6C1VtA)| - |无|**14.9 ￥ / 不限时 / 130 GB<br>688 ￥ / 不限时 / 10000 GB**|解锁流媒体|
 
 
