@@ -33,6 +33,9 @@
 
 ---
 ### 友情推荐：  
+OKX·充100U返30U最高100U，**这是OKX官方生成的邀请地址放心**。实在不放心的可自行注册，填写邀请码`92756167`即可  
+邀请注册地址为：[https://www.webxkonodey.info/join/92756167](https://www.webxkonodey.info/join/92756167)  
+
 [影视资源站扩展·免费·加速·去广告](https://chrome.google.com/webstore/detail/pegiockicjmdnkjbnppeeakeogdkegac?hl=zh-CN&utm_source=https://github.com/vfdeclnc/panda-vpn-pro)
 
 ---
