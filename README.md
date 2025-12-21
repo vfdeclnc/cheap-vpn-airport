@@ -19,7 +19,7 @@
 #### 机场不适合用来打游戏！套餐价格和内容可能发生变化，以实际为准
 |创建|官网<br>(点击跳转)|协议|节点数|限时|不限时|其他|
 |:-:|:-:|:-:|:-:|-|-|-|
-|2022.04.26|[**魔戒**](https://mojie.xn--yrs494l.com/register?aff=qt6C1VtA)| vmess、hy2、anytls |43|无|**14.9 ￥ / 不限时 / 130 GB<br>688 ￥ / 不限时 / 10000 GB**|解锁流媒体|
+|2022.04.26|[**魔戒**](https://mojie.app/register?aff=qt6C1VtA)| vmess、hy2、anytls |43|无|**14.9 ￥ / 不限时 / 130 GB<br>688 ￥ / 不限时 / 10000 GB**|解锁流媒体|
 |2023.05.01|[**农夫山泉**](https://www.nfsq.us/#/register?code=JjW59PTY)| vless、ss |24|**8 ￥ / 月 / 200 GB**|**15 ￥ / 不限时 / 200 GB<br>70 ￥ / 不限时 / 1000 GB**|订阅链接用后即焚<br>延迟低，兼顾速度与价格，<br>大部分是亚洲节点|
 |2023.05.04|[**自由猫**](https://us.freecat.cc/register?code=yA5d4GFo)| Trojan、ss |-|**9 ￥ / 月 / 100 GB**|**50 ￥ / 不限时 / 500 GB**||
 |2023.03.09|[**亏本机场**](https://knjc.cfd/#/register?code=Lhpm2QMs)| hy2、vless |21|**1.99 ￥ / 月 / 500 GB**|**9.9 ￥ / 不限时 / 1234 GB**|延迟较低，极致性价比|
